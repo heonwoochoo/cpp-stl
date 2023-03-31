@@ -26,5 +26,8 @@
     <ClInclude Include="ex3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ex4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

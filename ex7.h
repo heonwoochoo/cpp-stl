@@ -46,7 +46,7 @@ void Example()
 	}
 
 	// lower_bound() : 원소가 시작하는 위치의 반복자
-	// upper_bound() : 원소가 끝나는 위치의 반복자
+	// upper_bound() : 원소가 끝나는 위치의 반복자 (원소의 다음을 가리키는 반복자)
 	// equal_range() : 시작과 끝 부분의 반복자를 pair로 반환
 
 	int v = 30;

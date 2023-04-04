@@ -41,5 +41,8 @@
     <ClInclude Include="ex7.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ex8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
